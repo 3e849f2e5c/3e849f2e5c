@@ -1,4 +1,9 @@
-### Hi there 👋
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=3e849f2e5c&count_private=true&show_icons=true&hide=contribs" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3e849f2e5c&layout=compact" />
+</a>
 
 <!--
 **3e849f2e5c/3e849f2e5c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
